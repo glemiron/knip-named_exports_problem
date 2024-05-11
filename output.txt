@@ -1,0 +1,5 @@
+Unused exports (4)
+FEATURE_ONE  FEATURES  unknown  src/features/constants.ts:1:14            
+FEATURE_TWO  FEATURES  unknown  src/features/constants.ts:2:14            
+order1                 unknown  src/fixures/orderFixtures/fixture1.ts:1:14
+order2                 unknown  src/fixures/orderFixtures/fixture2.ts:1:14

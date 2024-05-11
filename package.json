@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "react": "18.0.0",
+    "react-dom": "18.0.0"
+  },
+  "devDependencies": {
+    "utility-types": "^3.11.0",
+    "typescript": "^5.4.5",
+    "knip": "^5.15.0-keyedreexport.0"
+  },
+  "scripts": {
+    "knip": "knip > output.txt",
+    "compile": "tsc src/index.tsx --noEmit --jsx react"
+  }
+}
